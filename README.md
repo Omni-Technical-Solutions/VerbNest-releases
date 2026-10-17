@@ -2,7 +2,7 @@
 
 Local-first API client: send HTTP requests, keep everything on your device.
 
-This repository hosts the VerbNest installers. Download the latest one from [Releases](https://github.com/bulhanb/verbnest-releases/releases).
+This repository hosts the VerbNest installers. Download the latest one from [Releases](https://github.com/Omni-Technical-Solutions/VerbNest-releases/releases).
 
 ## Windows
 
@@ -20,4 +20,4 @@ VerbNest is released under the [Boost Software License 1.0](LICENSE). Copyright 
 
 ## Issues
 
-Report problems in [Issues](https://github.com/bulhanb/verbnest-releases/issues).
+Report problems in [Issues](https://github.com/Omni-Technical-Solutions/VerbNest-releases/issues).
