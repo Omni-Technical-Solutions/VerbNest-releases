@@ -16,7 +16,7 @@ Or download `VerbNest-<version>+<build>-windows-x64-setup.exe` from the latest r
 
 ## Licence
 
-VerbNest is released under the [Boost Software License 1.0](LICENSE). Copyright (c) 2026 Omni Technical Solutions Pty Ltd.
+VerbNest 0.64.4 and later is open source under the [Apache License 2.0](https://github.com/Omni-Technical-Solutions/VerbNest/blob/main/LICENSE); the source code is at [Omni-Technical-Solutions/VerbNest](https://github.com/Omni-Technical-Solutions/VerbNest). Installers up to 0.64.3 were released under the [Boost Software License 1.0](LICENSE) (the LICENSE file in this repository). Copyright (c) 2026 Omni Technical Solutions Pty Ltd. The names VerbNest and Omni and the icon are not covered by the licence.
 
 ## Issues
 
